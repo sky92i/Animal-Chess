@@ -85,4 +85,4 @@ The image above shows that Player A wins by moving the piece to the opponent's l
 The image above shows that Player A wins by capturing all of his opponent's pieces.
 
 ## Credit
-Thanks to Xavier Leung and David Tang for subsequent improvement update and documentation on this game.
+Thanks to Xavier Leung and David Tang for subsequent improvement update and documentation on this game after the first commit.
